@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'E-Commerce ',
+      title: 'Магазин ',
       theme: AppTheme.lightTheme.copyWith(
         textTheme: GoogleFonts.mulishTextTheme(
           Theme.of(context).textTheme,
